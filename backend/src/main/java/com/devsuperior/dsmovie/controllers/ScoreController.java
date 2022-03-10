@@ -23,3 +23,4 @@ public class ScoreController {
 		return movieDTO;
 	}
 }
+
