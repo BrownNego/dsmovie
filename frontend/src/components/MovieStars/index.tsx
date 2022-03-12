@@ -42,7 +42,6 @@ function Star({ fill }: StarProps) {
   else {
     return <StarHalf />
   }
-
 }
 
 function MovieStarts({ score }: Props) {
